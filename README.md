@@ -22,7 +22,7 @@ items, as well as the display of the table. All elements were spaced out, and no
 Here I've included how the website functions with search criteria; the results are inclusive rather than exclusive; we'll include all of texas, and benton, and 
 sightings on 1/2/2010.
 
-All users must do is type in the desired criteria, and if there is a mach, they will see a filtered search result returned.
+All users must do is type in the desired criteria, and if there is a match, they will see a filtered search result returned.
 
 ## Summary
 
