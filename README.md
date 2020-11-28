@@ -12,12 +12,12 @@ country, and date.
 
 This was the final result of our work:
 
-[UFO_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.45.57%20AM.png)
+![UFO_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.45.57%20AM.png)
 
 The website was very user friend and visually appealing, if I say so myself. There was an aesthetically appealing layout for the search 
 items, as well as the display of the table. All elements were spaced out, and nothing was terribly cluttered. 
 
-[Search_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.52.46%20AM.png)
+![Search_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.52.46%20AM.png)
 
 Here I've included how the website functions with search criteria; the results are inclusive rather than exclusive; we'll include all of texas, and benton, and 
 sightings on 1/2/2010.
