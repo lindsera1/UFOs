@@ -5,7 +5,7 @@
 In this project, I helped my friend Dana build a website which showcased her interest for UFOs.
 In particular, we wanted to create a website that was dedicated to providing recorded UFO sightings across
 the country. The intent was to spread awareness about the possibility of the existence of UFOs on UFO day.
-The particular approach was simply to allow users to filter their search based on criteria of shape, city, state
+Our particular approach was simply to allow users to filter their search based on criteria of shape, city, state
 country, and date. 
 
 ## Results
@@ -14,7 +14,7 @@ This was the final result of our work:
 
 ![UFO_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.45.57%20AM.png)
 
-The website was very user friend and visually appealing, if I say so myself. There was an aesthetically appealing layout for the search 
+The website was very user friendly and visually appealing, if I say so myself. There was an aesthetically appealing layout for the search 
 items, as well as the display of the table. All elements were spaced out, and nothing was terribly cluttered. 
 
 ![Search_Website](https://github.com/lindsera1/UFOs/blob/main/Screen%20Shot%202020-11-28%20at%201.52.46%20AM.png)
