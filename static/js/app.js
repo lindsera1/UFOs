@@ -58,6 +58,7 @@ function filterTable() {
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
 
+
     let buildData = [];
 
     Object.entries(filters).forEach(([key, value]) => {
@@ -71,15 +72,14 @@ function filterTable() {
     //     }
     //   }
     // }
-      
-  
+
     // 10. Finally, rebuild the table using the filtered data
     buildTable(buildData);
 }
   
-  // 2. Attach an event to listen for changes to each filter
-  d3.selectAll("input").on("change", updateFilters);
+// 2. Attach an event to listen for changes to each filter
+d3.selectAll("input").on("change", updateFilters);
   
   
-  // Build the table when the page loads
-  buildTable(tableData);
+// Build the table when the page loads
+buildTable(tableData);
